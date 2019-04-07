@@ -2,7 +2,7 @@
 
 # Semantics with Pictures
 
-This repository started out as a companion to my IWCS 2019 paper "Natural Language Semantics with Pictures: Some Language & Vision Datasets and Potential Uses for Computational Semantics" [[pdf]](http://www.google.com). It documents the experiments reported there, but goes beyond the material in that paper. The repository also collects the main material for my summer 2019 Potsdam class on ["computational semantics with pictures"](https://compling-potsdam.github.io/sose19-pm1-pictures/).
+This repository started out as a companion to my IWCS 2019 paper "Natural Language Semantics with Pictures: Some Language & Vision Datasets and Potential Uses for Computational Semantics" [[pdf]](01_SemPics/sempix_iwcs.pdf). It documents the experiments reported there, but goes beyond the material in that paper. The repository also collects the main material for my summer 2019 Potsdam class on ["computational semantics with pictures"](https://compling-potsdam.github.io/sose19-pm1-pictures/).
 Finally, the notebooks here rely on the output of the preprocessing of the various image and image annotation corpora discussed here, the code for which is collected in the [clp-vision](http://github.com/clp-research/clp-vision.git) repository. In that sense, this repository can also be seen as a companion to that code.
 
 ## What you can find here
