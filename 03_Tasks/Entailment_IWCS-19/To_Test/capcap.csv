@@ -1,0 +1,61 @@
+premise,hypothesis,label,prompt
+People in business suits standing in front of a building.,A man holding a remote controller in front of a building.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A group of people sitting at a wooden table with a child.,A baby boy sitting at a table with a smile on his face.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A variety of telephone directories stacked on a counter.,A stack of phone books next to a Coco Cola machine.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A group of people taking pizza out of many pizza boxes on a buffet table.,A hungry family is captured eating lovely food.,0,Is Text 2 likely to be describing the same situation as Text 1?
+Three girls play frisbee in a front yard.,Two men retrieving their Frisbee from the creek. ,0,Is Text 2 likely to be describing the same situation as Text 1?
+A man and a woman holding video game controllers.,a couple of people that have some wii remotes in hand,1,Is Text 2 likely to be describing the same situation as Text 1?
+Gourmet hot dog with roasted corn and green onions.,"A hot dog with chili and cheese, onion rings with barbecue sauce and french fries with chili on cheese. ",0,Is Text 2 likely to be describing the same situation as Text 1?
+A group of people riding on the backs of horses.,People in hats and military uniforms are riding on horses.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A person with a backpack on sitting by some luggage.,A woman standing in a room filled with lots of luggage.,0,Is Text 2 likely to be describing the same situation as Text 1?
+People in business suits standing in front of a building.,Three men in suits standing in front of a television.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A plate of food of sandwiches and fruit,"A plate of food with sandwich, buns, butter, strawberry and jam.",1,Is Text 2 likely to be describing the same situation as Text 1?
+there is a dog that is laying in the middle of a restaurant ,Two women stand near tables as a dog lies on the floor. ,1,Is Text 2 likely to be describing the same situation as Text 1?
+Salmon and egg yolks on toast on a plate with eggs and tomatoes on toast.,The sandwich has many slices of hard boiled eggs. ,1,Is Text 2 likely to be describing the same situation as Text 1?
+Two horses pulling a horse cart on a dirt road.,a very old picture of two horses pulling a buggy on dirt streets,1,Is Text 2 likely to be describing the same situation as Text 1?
+A woman standing next to a bicycle and looking through a store window.,Some people stand on the street looking in a store window. ,1,Is Text 2 likely to be describing the same situation as Text 1?
+Several tupperware containers of diced fruit and vegetables.,"Six plastic containers full of mixed vegetables, including broccoli",1,Is Text 2 likely to be describing the same situation as Text 1?
+Three zebras standing together in a grassy field.,A herd of zebras in the African grassland with an ibex grazing nearby.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A woman standing next to a bicycle and looking through a store window.,The young group of adults are standing around the truck and climbing on the truck. ,0,Is Text 2 likely to be describing the same situation as Text 1?
+"Two food containers filled with meat, vegetables, and fruit are set next to each other.",one ceramic bowl with broccoli and topped with cheese in the shape of bats next to a bowl of soup and a container of berries and peaches.,0,Is Text 2 likely to be describing the same situation as Text 1?
+Three zebras standing together in a grassy field.,Two zebras around the grass while being in the zoo. ,0,Is Text 2 likely to be describing the same situation as Text 1?
+there is a dog that is laying in the middle of a restaurant ,A white vase of flowers sits on a wood table.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A plate of food of sandwiches and fruit,Some trays of many different types of food.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A couple of men in a room with remotes.,Two men playing with video game controllers in a living room.,1,Is Text 2 likely to be describing the same situation as Text 1?
+The jockeys ride the horses in a race.,three horses running a race near each other,1,Is Text 2 likely to be describing the same situation as Text 1?
+The jockeys ride the horses in a race.,Two horses are standing and drinking from a water source.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A group of people sitting at a wooden table with a child.,A boy having lunch at an Asian restaurant.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A group of people riding on the backs of horses.,A group of men let their horses drink from a fountain.,1,Is Text 2 likely to be describing the same situation as Text 1?
+The men are getting ready to hit the ball during the baseball game. ,The players are playing a game of baseball/,1,Is Text 2 likely to be describing the same situation as Text 1?
+A couple of people that are playing a video game.,An old couple are playing with the Nintendo Wii. ,1,Is Text 2 likely to be describing the same situation as Text 1?
+Gourmet hot dog with roasted corn and green onions.,"A sausage dog is seen coated with relishes, sauces, and on top of a brown bun.",1,Is Text 2 likely to be describing the same situation as Text 1?
+"A plate of sliced cheese, sliced applies, and something else.",An open faced sandwich with onions on top. ,0,Is Text 2 likely to be describing the same situation as Text 1?
+ a couple of elephants standing next to the trainer.,Two people ride elephants through the trees. ,0,Is Text 2 likely to be describing the same situation as Text 1?
+Two photos of a woman hitting a tennis ball.,a tennis player reaching down to swing a tennis racket,1,Is Text 2 likely to be describing the same situation as Text 1?
+The men are getting ready to hit the ball during the baseball game. ,A baseball player standing next to a base.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A remote is sitting on a chair near several televisions. ,A chair with a remote control on the seat.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A girl posing at a zoo by an elephant and its keeper,A man and woman is petting a small elephant.,0,Is Text 2 likely to be describing the same situation as Text 1?
+Three girls play frisbee in a front yard.,Three women outside throwing Frisbees to one another.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A soccer player about to kick the ball during the game.,A group of young men standing next to each other in uniform.,0,Is Text 2 likely to be describing the same situation as Text 1?
+"Two food containers filled with meat, vegetables, and fruit are set next to each other.",A variety of food is displayed in a pair of bowls.,1,Is Text 2 likely to be describing the same situation as Text 1?
+ a couple of elephants standing next to the trainer.,A man leading an elephant across a dirt yard with another elephant in the background.,1,Is Text 2 likely to be describing the same situation as Text 1?
+"A plate of sliced cheese, sliced applies, and something else.",Apples cheese and crisp were served on the plate.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A girl posing at a zoo by an elephant and its keeper,"A male afraid to touch the elephant, and a female is smiling taking picture with the elephant.",1,Is Text 2 likely to be describing the same situation as Text 1?
+A couple of people that are playing a video game.,A man standing in a living room in front of a fireplace.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A person with a backpack on sitting by some luggage.,A person in a backpack sits on the sidewalk with luggage.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A parking meter with an hour and thirteen minutes left to go. ,A parking meter that is on the side of the road.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A little girl holding up a cell phone to a camera next to a picture of the same girl laying in bed with a baby.,A child holding a cell phone and children on a bed.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A variety of telephone directories stacked on a counter.,A clock is made from books and is sitting on the shelf,0,Is Text 2 likely to be describing the same situation as Text 1?
+A parking meter with an hour and thirteen minutes left to go. ,an image of a parking meter with underwear on it,0,Is Text 2 likely to be describing the same situation as Text 1?
+a row of three ambulances with white and yello paint,A blue and white truck sitting on top of lush green grass.,0,Is Text 2 likely to be describing the same situation as Text 1?
+Salmon and egg yolks on toast on a plate with eggs and tomatoes on toast.,An editorial sandwich on a plate and newspaper.,0,Is Text 2 likely to be describing the same situation as Text 1?
+Several tupperware containers of diced fruit and vegetables.,A mixtures of broccoli and other veggies covered in sauce.,0,Is Text 2 likely to be describing the same situation as Text 1?
+Two horses pulling a horse cart on a dirt road.,Two horses are tied to a post along side a building.,0,Is Text 2 likely to be describing the same situation as Text 1?
+a row of three ambulances with white and yello paint,A group of ambulances sitting next to each other.,1,Is Text 2 likely to be describing the same situation as Text 1?
+A little girl holding up a cell phone to a camera next to a picture of the same girl laying in bed with a baby.,A baby boy laying in bed next to another kid.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A group of people taking pizza out of many pizza boxes on a buffet table.,people standing around a table set up with many boxes of pizza ,1,Is Text 2 likely to be describing the same situation as Text 1?
+A soccer player about to kick the ball during the game.,A group of men on a soccer field kicking the ball,1,Is Text 2 likely to be describing the same situation as Text 1?
+A remote is sitting on a chair near several televisions. ,an image of a dog walking past several tv screens,0,Is Text 2 likely to be describing the same situation as Text 1?
+A man and a woman holding video game controllers.,A family is sitting around playing Wii together.,0,Is Text 2 likely to be describing the same situation as Text 1?
+Two photos of a woman hitting a tennis ball.,Four young kids standing together holding tennis rackets.,0,Is Text 2 likely to be describing the same situation as Text 1?
+A couple of men in a room with remotes.,Two men sitting on top of a couch holding Nintendo Wii game controllers.,0,Is Text 2 likely to be describing the same situation as Text 1?
