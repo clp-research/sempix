@@ -67,16 +67,16 @@ def center_point(bb):
     return x+w/2, y+h/2
 
 
-def point_distance((xa, ya), (xb, yb)):
+def point_distance(xa, ya, xb, yb):
     return np.sqrt((xb-xa)**2 + (yb-ya)**2)
 
 
 def compute_distance_objs(imgdf, objdf, ii, si, oi):
     cs = center_point(get_obj_bb(objdf, si))
     co = center_point(get_obj_bb(objdf, oi))
-    dist = point_distance(cs, co)
+    dist = point_distance(*cs, *co)
     iw, ih = imgdf[imgdf['image_id'] == ii][['width', 'height']].values[0]
-    img_diag = point_distance((0, iw), (iw, ih))
+    img_diag = point_distance(0, iw, iw, ih)
     return dist / img_diag
 
 
@@ -94,7 +94,7 @@ def compute_relpos_objs(imgdf, objdf, ii, si, oi):
     xs, ys = center_point(get_obj_bb(objdf, si))
     xo, yo = center_point(get_obj_bb(objdf, oi))
     iw, ih = imgdf[imgdf['image_id'] == ii][['width', 'height']].values[0]
-    img_diag = point_distance((0, iw), (iw, ih))
+    img_diag = point_distance(0, iw, iw, ih)
     xr = (xs - xo) / img_diag
     yr = (ys - yo) * -1 / img_diag
     return xr, yr
