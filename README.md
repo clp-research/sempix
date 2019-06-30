@@ -16,7 +16,7 @@ The additional annotation that links the image corpora with natural language exp
 
 ## Some technical notes
 
-If you want to execute the notebooks, you need to have set an environment variable `VISCONF` that points to a config file (format explained / illustrated in the [clp-vision](http://github.com/clp-research/clp-vision.git) repo), and you also need to have access to the output of the preprocessing done in that repo, and the image data. And you need to have a ton of dependencies installed, of which I should really compile a list, and will do, at some point.
+If you want to execute the notebooks, you need to have set an environment variable `VISCONF` that points to a config file (format explained / illustrated in the [clp-vision](http://github.com/clp-research/clp-vision.git) repo), and you also need to have access to the output of the preprocessing done in that repo, and the image data. And you need to have a ton of [dependencies](requirements.txt) installed.
 
 The notebooks here look best (and as intended) when the Jupyter extensions `latex_env`, `toc2`, and `codefolding` are installed; which can be done easily via [NB extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/). 
 
