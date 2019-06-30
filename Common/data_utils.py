@@ -9,6 +9,9 @@ import pandas as pd
 import numpy as np
 
 
+print('Deprecation Warning: This module has been moved to clp-vision. Please adapt your code!')
+
+
 def visgenid_to_coco_id(df, vi):
     # works for example on visgen_regdf
     return df[df['image_id'] == vi]['coco_id']
