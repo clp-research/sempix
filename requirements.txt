@@ -8,6 +8,6 @@ numpy==1.16.2
 ipython==7.4.0
 annoy==1.15.2
 protobuf==3.7.1
-tensorflow==1.15.2
+tensorflow==2.5.0
 tensorflow_hub==0.4.0
 transitions==0.6.9
