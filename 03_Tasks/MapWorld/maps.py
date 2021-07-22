@@ -189,11 +189,12 @@ class ADEMap(AbstractMap):
                                         len(target_type_distr), replace=False)
         for target_type, repetitions in zip(target_types, target_type_distr):
             for _ in range(repetitions):
-                this_node = unassigned[np.random.choice(range(len(unassigned)))]
-                G.nodes[this_node]['base_type'] = 'indoor'
-                G.nodes[this_node]['type'] = target_type
-                G.nodes[this_node]['target'] = True
-                unassigned.remove(this_node)
+                if len(unassigned) > 0:
+                    this_node = unassigned[np.random.choice(range(len(unassigned)))]
+                    G.nodes[this_node]['base_type'] = 'indoor'
+                    G.nodes[this_node]['type'] = target_type
+                    G.nodes[this_node]['target'] = True
+                    unassigned.remove(this_node)
         remainder_types = list(set(self._target_cats)
                                .difference(set(target_types))
                                .union(set(self._distractor_cats)))
